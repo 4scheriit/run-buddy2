@@ -80,6 +80,22 @@ section {
 }
 /* Hero Style End */
 
+.hero-cta
+{
+	float: right;
+}
+
+.hero-cta h1
+{
+	font-size: 45;
+	color: #fce138
+}
+
+.hero-cta p
+{
+	color: #ffffff;
+}
+
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
