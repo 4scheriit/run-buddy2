@@ -14,7 +14,3 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
-<<<<<<< HEAD
-
-=======
->>>>>>> 8d677f891ecb89b96c225d8bcbf93c91b8633b00
